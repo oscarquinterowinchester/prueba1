@@ -1,2 +1,2 @@
 # prueba1
-prueba pre dashboard
+prueba dashboard completo
